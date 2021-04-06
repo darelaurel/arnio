@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Montserrat';
+    font-display: swap;
+    src: url('fonts/Montserrat-Black.ttf'); 
+    src: url('fonts/Montserrat-Black.ttf') format('truetype'), 
+         url('fonts/Montserrat-Bold.ttf') format('truetype'),
+         url('fonts/Montserrat-ExtraBold.ttf') format('truetype'),
+         url('fonts/Montserrat-ExtraLight.ttf') format('truetype'),
+         url('fonts/Montserrat-Light.ttf') format('truetype'),
+         url('fonts/Montserrat-Medium.ttf') format('truetype'),
+         url('fonts/Montserrat-Regular.ttf') format('truetype'),
+         url('fonts/Montserrat-SemiBold.ttf') format('truetype'),
+         url('fonts/Montserrat-Thin.ttf') format('truetype')
+  }
+ 
+  @font-face {
+     font-family: 'Lato';
+     font-display: swap;
+     src: url('fonts/Lato-Black.ttf'); 
+     src: url('fonts/Lato-Black.ttf') format('truetype'), 
+          url('fonts/Lato-Bold.ttf') format('truetype'),
+          url('fonts/Lato-Light.ttf') format('truetype'),
+          url('fonts/Lato-Regular.ttf') format('truetype'),
+          url('fonts/Lato-Thin.ttf') format('truetype')
+   }
+ 
+   @font-face {
+     font-family: 'Bellota Text';
+     font-display: swap;
+     src: url('fonts/BellotaText-Bold.ttf'); 
+     src: url('fonts/BellotaText-Bold.ttf') format('truetype'), 
+          url('fonts/BellotaText-BoldItalic.ttf') format('truetype'),
+          url('fonts/BellotaText-Italic.ttf') format('truetype'),
+          url('fonts/BellotaText-Light.ttf') format('truetype'),
+          url('fonts/BellotaText-Regular.ttf') format('truetype')
+   }
+   
+   @font-face {
+     font-family: 'Baloo Chettan 2';
+     font-display: swap;
+     src: url('fonts/BalooChettan2-Bold.ttf'); 
+     src: url('fonts/BalooChettan2-Bold.ttf') format('truetype'), 
+          url('fonts/BalooChettan2-ExtraBold.ttf') format('truetype'),
+          url('fonts/BalooChettan2-Medium.ttf') format('truetype'),
+          url('fonts/BalooChettan2-Regular.ttf') format('truetype'),
+          url('fonts/BalooChettan2-SemiBold.ttf') format('truetype')
+   }
+   
